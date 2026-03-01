@@ -96,4 +96,4 @@ NEXT_PUBLIC_APP_URL="https://your-domain.com"
 
 ---
 
-**صُنع بـ ❤️ للمطورين العرب**
+Ali Mohammed - D7laoe
